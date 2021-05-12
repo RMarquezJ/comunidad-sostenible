@@ -1,0 +1,73 @@
+body {
+  width: 1240px;
+  margin: 0 auto;
+}
+
+header img {
+  width: 100px;
+  display: inline-block;
+}
+
+header ul {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+header ul *{
+  display: inline-block;
+}
+
+.headimg {
+  width: 11%;
+}
+
+.mright {
+  border-right: 1px solid black;
+  padding-right: 20px;
+}
+
+.seed {
+  min-height: 400px;
+  background-image: url('../img/semilla.jpg');
+}
+
+.method {
+  min-height: 400px;
+  background-image: url('../img/metodo.jpg');
+}
+
+.green_bg {
+  min-height: 400px;
+  background-image: url('../img/fondo.jpg');
+}
+
+.proyimg {
+  width: 40%;
+}
+
+.profile {
+  border-radius: 50%;
+}
+
+.socialmedia {
+  padding-left: 0px;
+}
+
+.socialmedia *{
+  display: inline-block;
+  width: 40px;
+  margin: 7px;
+}
+
+.grey_bg {
+  min-height: 400px;
+  background-image: url('../img/fondo2.jpg');
+}
+
+.blogimg {
+  width: 100%;
+}
+
+.blogarr {
+  width: 60%;
+}
