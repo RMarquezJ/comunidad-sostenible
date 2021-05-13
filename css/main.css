@@ -41,12 +41,21 @@ header ul *{
   background-image: url('../img/fondo.jpg');
 }
 
+.txt-s {
+  font-size: 0.9rem;
+}
+
+.txt-m{
+  font-size: 1.1rem;
+}
+
 .proyimg {
   width: 40%;
 }
 
 .profile {
   border-radius: 50%;
+  width: 50%;
 }
 
 .socialmedia {
@@ -70,4 +79,8 @@ header ul *{
 
 .blogarr {
   width: 60%;
+}
+
+h4{
+  font-weight: bold;
 }
